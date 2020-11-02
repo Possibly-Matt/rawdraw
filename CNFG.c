@@ -13,6 +13,7 @@
 #endif
 
 #include "CNFGFunctions.c"
+#include 'CNFGUiElements.c'
 
 #ifdef CNFG3D
 #include "CNFG3D.c"
